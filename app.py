@@ -33,7 +33,7 @@ for matchNum, match in enumerate(matches, start=1):
         print("{discipline_name} : {group}".format(discipline_name=discipline_name, start=match.start(groupNum),end=match.end(groupNum),
                                                                          group=group_value))
 
-#to-do: rank matches by decrescent valeu in "Total" (groupNum ->8)
+#to-do: rank matches by decrescent valeu in "Total" (groupNum ->8))
 
 
 

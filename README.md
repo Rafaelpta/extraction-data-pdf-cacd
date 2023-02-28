@@ -4,9 +4,9 @@ This python script is designed extract data from PDF files and generate a rankin
 
 ## Installation
 
-Clone the repository to your local machine.
-Install the required dependencies.
-Ensure that you have a compatible version of Python installed on your machine (Python 3.6 or later).
+Clone the repository.
+
+Ensure that you have a compatible version of Python installed (Python 3.6 or later).
 
 ## Usage
 In "app.py", inject the results in "test_str" seen in the original document where the results are issued (normally under the 1.1 topic) (https://www.iades.com.br/inscricao/upload/303/20220606142252254.pdf ).
